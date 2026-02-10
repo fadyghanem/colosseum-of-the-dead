@@ -93,3 +93,9 @@ Developed as a complete solo project, from core gameplay systems to UI and progr
     GML
   
     Git
+
+## 📬 Contact
+    
+    Fady Ghanem — b.fady7@gmail.com  
+    GitHub: https://github.com/fadyghanem
+
