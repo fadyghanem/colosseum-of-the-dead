@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"creepy_halloween_bell_trap_melody_247720",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":11.467755,
+  "exportDir":"",
+  "name":"creepy_halloween_bell_trap_melody_247720",
+  "parent":{
+    "name":"group1",
+    "path":"folders/Sounds/group1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"creepy_halloween_bell_trap_melody_247720.mp3",
+  "volume":1.0,
+}

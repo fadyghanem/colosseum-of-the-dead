@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"horde_war_drums",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":2,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":14.811429,
+  "exportDir":"",
+  "name":"horde_war_drums",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"horde_war_drums.mp3",
+  "volume":1.0,
+}
