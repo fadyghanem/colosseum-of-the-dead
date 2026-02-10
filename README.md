@@ -9,6 +9,11 @@ The goal is simple: survive as long as possible while enemies grow stronger each
 
 Developed as a complete solo project, from core gameplay systems to UI and progression.
 
+🔗 Play the Game
+  
+    ▶️ Playable version:
+        [gx.games link here](https://gx.games/games/hha2mr/colosseum-of-the-dead/)
+
 🎮 Gameplay Overview
 
     Player moves freely and shoots approaching zombies
@@ -70,11 +75,6 @@ Developed as a complete solo project, from core gameplay systems to UI and progr
     Aim & Shoot: Mouse
     
     Interact with shop: Mouse
-
-🔗 Play the Game
-  
-    ▶️ Playable version:
-        [gx.games link here](https://gx.games/games/hha2mr/colosseum-of-the-dead/)
 
 🧠 What I’m Proud Of
 
